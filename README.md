@@ -8,11 +8,15 @@ This repo contains code on many data science related topics which has been categ
 The various topics in each category are listed below.
 
 
-## 1.NLP [link to section](nlp/readme.md)
+## 1.NLP 
 
 
 ## 2.Computer Vision
 
+
+	1.An interesting problem on the relative power of logistic regression and single latered neural network.The intial problem was to design a 		embeding so that two elememts of the same class are close together where as two element of different classare apart and compare logistic with 		nn on that embeding space. 
+
+	2.VAE :This code implements a generative recurrent neural network called Variational Autoencoder for generating MNIST images.
 
 ## 3.Machine Learning
 

@@ -8,7 +8,7 @@ This repo contains code on many data science related topics which has been categ
 The various topics in each category are listed below.
 
 
-## 1.NLP
+## 1.NLP (nlp)
 
 
 ## 2.Computer Vision

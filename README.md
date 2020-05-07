@@ -29,6 +29,7 @@ The various topics in each category are listed below.
 	6.EM algrithm for unsupervised classification.
 	7.Semi supervised classification using constrained and seeded k means.
 	8.Implementation of Perceptron Learning algorithm.
+	9.kmeans on wine dataset and analysis.
 	
 
 
@@ -48,6 +49,10 @@ The various topics in each category are listed below.
 	1.Source and Destination embeding of nodes of the cora network and then supervised learning of classifiers on it.
 	
 	2.Using GCN for semisupervised classification on cora network.
+	
+	3.spectral vs deep learning for  graph clustering.
+
+	4.spectralnormalized vs unnormalized on karate network.
 	 
 
 
